@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("Hello world!!");
+	printf("Know more about my repo");
 	return 0;
 }
